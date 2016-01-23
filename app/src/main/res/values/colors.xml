@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="white">#FFFFFF</color>
+   <color name="LemonChiffon">#FFFACD</color>
+   <color name="greyBlue">#C2D1FF</color>
+   <color name="greyMauve">#616880</color>
+   <color name="lightBlue">#B2D1FF</color>
+   <color name="opaque_red">#f00</color>
+    
+</resources>

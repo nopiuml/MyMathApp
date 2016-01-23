@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyMathApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="theory">Θεωρία</string>
+    <string name="exercise">Ασκήσεις</string>
+    <string name="test">Τεστ</string>
+   	<string name="info">Βοήθεια</string>
+	<string name="username">Εισάγετε το όνομά σας</string>
+	<string name="stats">Στατιστικά επίδοσης</string>
+	<string name="logout">Αποσύνδεση</string>
+	<string name="login">Σύνδεση</string>
+	<string name="exit">Έξοδος</string>
+    <string name="chapters">Τα Μαθηματικά μου</string>
+
+</resources>

@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+        android:background="@drawable/green_chalk_board"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="@dimen/abc_action_bar_content_inset_material"
+    tools:context="com.example.mymathapp.SectionFragment" >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Button
+        android:id="@+id/theory"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/theory"
+        android:textSize="20sp"
+        android:drawableLeft="@drawable/book"
+        android:drawableStart="@drawable/book"
+        android:textColor="@color/LemonChiffon" />
+
+        <Button
+            android:id="@+id/exercise"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/exercise"
+            android:textSize="20sp"
+            android:drawableLeft="@drawable/pencil"
+            android:drawableStart="@drawable/pencil"
+            android:textColor="@color/LemonChiffon" />
+
+       <!-- <Button
+            android:id="@+id/test"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/test"
+            android:textColor="@color/LemonChiffon"
+            android:drawableLeft="@drawable/clock"
+            android:drawableStart="@drawable/clock" />
+       -->
+   
+</LinearLayout>
